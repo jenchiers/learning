@@ -1,7 +1,0 @@
-go 1.19
-
-use (
-	./intro-nana
-	./projects/restful-api
-	./projects/web-server
-)

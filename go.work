@@ -1,0 +1,7 @@
+go 1.19
+
+use (
+	./go/intro-nana
+	./go/projects/restful-api
+	./go/projects/web-server
+)
